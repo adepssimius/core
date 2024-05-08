@@ -196,6 +196,7 @@
         "last": "Most recently updated",
         "range": "Statistical range",
         "sum": "Sum",
+        "stdev": "Standard Deviation",
         "product": "Product"
       }
     }
